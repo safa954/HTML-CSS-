@@ -1,0 +1,16 @@
+pre {
+    font-size: 13px;
+    font-weight: 5px;
+    color: blue;
+}
+
+pre span {
+    color: green;
+}
+
+pre span span {
+    color: black;
+}
+
+.a1 {
+    color: black

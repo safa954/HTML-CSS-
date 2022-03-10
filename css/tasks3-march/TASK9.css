@@ -1,0 +1,42 @@
+body
+{
+    background-color:rgb(245, 245, 151);
+}
+div
+{
+     background-color: white;
+     margin:0 35% 1% 0;
+     border: 2px;
+ }
+ .d1
+{ border: solid lightslategray;
+
+}
+ .d2
+{
+     border: solid lightslategray;
+            
+ }
+ .d3
+ {
+        color: red;
+        border: dotted red;
+        padding-bottom: 20px;
+}
+ #id
+  {
+     border: dotted red;
+     margin: 10px 10px 10px 10px;
+}
+ .ipsum
+ {
+     font-weight: bolder;
+     background-color: coral;
+
+ }
+.quis
+ {
+     background-color: lightgoldenrodyellow;
+    font-weight: bolder;
+
+ }

@@ -1,0 +1,79 @@
+body{
+    border: solid brown 5px;
+}
+#perant {
+display: flex;
+flex-wrap: wrap;
+
+
+}
+.div1{
+  background-color: green;
+  height: 200px;
+  width: 25%;
+  font-size: 100px;
+  color: white;
+}
+.div2{
+background-color: yellow;
+height: 200px;
+width: 25%;
+font-size: 100px;
+color: white;
+}
+.div3{
+background-color: purple;
+height: 200px;
+width: 25%;
+font-size: 100px;
+ color: white;
+}
+.div4{
+background-color: gray;
+height: 200px;
+width: 25%;
+font-size: 100px;
+ color: white;
+}
+.div5{
+background-color: blue;
+height: 200px;
+width: 25%;
+font-size: 100px;
+ color: white;
+}
+.div6{
+background-color: orange;
+height: 200px;
+width: 25%;
+font-size: 100px;
+ color: white;
+}
+.div7{
+background-color: rgb(243, 122, 196);
+height: 200px;
+width: 25%;
+font-size: 100px;
+ color: white;
+}
+.div8{
+background-color: red;
+height: 200px;
+width: 25%;
+font-size: 100px;
+ color: white;
+}
+.div9{
+background-color: brown;
+height: 200px;
+width: 25%;
+font-size: 100px;
+ color: white;
+}
+.div10{
+background-color:violet;
+height: 200px;
+width: 25%;
+font-size: 100px;
+ color: white;
+}

@@ -1,0 +1,42 @@
+body {
+    background-color: lightyellow;
+}
+
+.S1 {
+    background-color: darkgoldenrod;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 15px;
+    width: 50%;
+    height: 40px;
+    margin: auto;
+}
+
+.S2 {
+    display: inline-block;
+    background-color: white;
+    width: 35%;
+    height: 400px;
+    margin-left: 24%;
+}
+
+.S3 {
+    float: right;
+    width: 17%;
+    height: 400px;
+    margin-right: 24%;
+    background-color: gray;
+    display: inline-block;
+}
+.S4{
+    text-align: center;
+    background-color: darkgray;
+    padding: 15px;
+    width: 50%;
+    height: 40px;
+    margin: auto;
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> ab77eb78ee7107f95f36e07379f758dbe3524ba0

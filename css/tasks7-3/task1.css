@@ -1,0 +1,69 @@
+#perant{
+border: solid brown;
+flex-direction: row;
+display: flex;
+
+
+}
+.sub1{
+background-color: green;
+height: 1000px;width: 11%;
+font-size: 100px;
+color: white;
+
+
+}
+.sub2{
+    background-color:yellow;
+    height: 1000px;width: 11%;
+    font-size: 100px;
+    color: white;
+
+    }
+.sub3{
+    background-color:purple;
+    height: 1000px;width: 11%;
+    font-size: 100px;
+    color: white;
+
+        }
+.sub4{
+    background-color:grey;
+    height: 1000px;width: 11%;
+    font-size: 100px;
+    color: white;
+
+     }
+.sub5{
+    background-color:lightsalmon;
+    height: 1000px;width: 11%;
+    font-size: 100px;
+    color: white;
+  }
+         
+         
+.sub6{
+    background-color:blue;
+    height: 1000px;width: 11%;
+    font-size: 100px;
+    color: white;
+ }     
+                 
+ .sub7{
+    background-color:orange;
+    height: 1000px;width: 11%;
+    font-size: 100px;
+    color: white;
+         }              
+.sub8{
+ background-color:plum;
+ height: 1000px;width: 11%;
+ font-size: 100px;
+ color: white;
+ }
+.sub9{
+ background-color:red;
+ height: 1000px;width: 11%;
+ font-size: 100px;
+ color: white;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: plum;
+}
+
+div {
+    overflow: hidden;
+    width: 300px;
+    height: 100px;
+    display: inline-block;
+    background-color: gray;
+}
+
+p {
+    border-width: 4px 0px;
+    border-style: solid ;
+    display: inline-block;
+}

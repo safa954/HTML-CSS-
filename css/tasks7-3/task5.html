@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .A1{
+            display: grid;
+            grid-template-columns:repeat(7,200px);
+            grid-template-rows: repeat(4,200px);
+            row-gap: 10px;
+            column-gap: 10px;
+            }
+       
+    
+        img{
+             width: 200px;
+             height: 200px;
+            }
+        @media  screen and (min-width: 480px) and (max-width:768px)
+            {
+    
+               .A1{
+                       display: grid;
+                       grid-template-columns:repeat(4,100px);
+                       grid-template-rows: repeat(3,100px);
+                       row-gap: 5px;
+                       column-gap: 5px;
+                   }
+               .img{
+                      width: 100px;
+                      height: 100px;
+                    }
+       
+            }
+    </style>
+</head>
+<body>
+    <div class="A1">
+        <div>
+            <img class="pic" src="image/Cover-600x371.jpg">
+            <img class="pic" src="image/fantasy-2049567__480.webp">
+            <img class="pic" src="image/images (1).jpg">
+        </div>
+        <div>
+             <img class="pic" src="image/images.jpg">
+             <img class="pic" src="image/istockphoto-1093110112-612x612.jpg">
+            <img class="pic" src="image/tree-736885__480.webp">
+        </div>
+        <div>
+            <img class="pic" src="image/Cover-600x371.jpg">
+             <img class="pic" src="image/images (1).jpg">
+        </div>
+    </div>
+</body>
+</html>

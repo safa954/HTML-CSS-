@@ -1,0 +1,19 @@
+.heding{
+    color: rgb(36 100 248); background-color: rgb(99 183 253 / 67%);  font-size: 20px;ة
+  
+}
+p .first{
+    color: rgb(36 100 248);
+}
+p .b{
+    font-weight: bolder;
+}
+th{
+    font-weight: bold;
+}
+.blue{
+    color:rgb(36 100 248) ;
+}
+table ,tr ,th,td {border: 2px;
+
+}
